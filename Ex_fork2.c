@@ -1,6 +1,6 @@
 // Online C compiler to run C program online
 // Online C compiler to run C program online
-// program to implement call system in unix 
+// program to implement system call in unix 
 //Program 2:-
 #include <stdio.h>
 #include <sys/wait.h> 
