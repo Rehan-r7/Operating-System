@@ -1,0 +1,42 @@
+#Editors
+1.gedit
+2.vim
+3.nano
+4.pico
+
+#file colors
+
+white - normal files
+green - executable 
+blue - Directory
+
+#Algo for c program in ***gedit***
+
+i) open terminal ctrl+alt+t
+ii) reate a file by gedit file_name.c
+iii) to check files type - ls
+iv) convert source file into executable file by - gcc file_name.c -o executable_filename
+v) check file by - ls
+vi) run executable file by - ./executable_filename
+
+#Algo for cpp program in ***nano***
+i) nano file_name.cpp
+ii) save file by - ctrl+o
+iv) exit by - ctrl+x
+ii) gcc file_name.cpp -o executable_filename
+iii) ./executable_filename
+
+#how to read only a file
+
+cat file_name.extension
+
+#Algo for a program in ***vim***
+
+1. Insert mode -  press i
+2. exit press - escape key
+3. command mode shift + : 
+4. w - save
+5. q - quit
+6. wq - save & quit
+7. q! - quit forcefully
+8. wq! - save & quit forcefully
